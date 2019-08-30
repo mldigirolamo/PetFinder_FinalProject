@@ -15,7 +15,9 @@ Techniques Used:
 
 
 Kaggle competition: https://www.kaggle.com/c/petfinder-adoption-prediction
+
 Malaysia Economy Data: https://en.wikipedia.org/wiki/List_of_Malaysian_states_by_GDP
 
 Class Professor: Dr. Matthew Beckman
+
 Group Member: Shelby Krenn
