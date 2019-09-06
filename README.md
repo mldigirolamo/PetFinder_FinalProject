@@ -21,7 +21,7 @@ This simple bar chart shows the population of pets by the state of Malaysia. It 
 
 ## Data Scaping
 
-![datascaping](https://github.com/mldigirolamo/PetFinder_FinalProject/blob/master/Screen%20Shot%202019-09-06%20at%2010.38.15%20AM.png)
+![datascaping](Screen Shot 2019-09-06 at 10.38.15 AM.png)
 
 After looking at the previous graph, I decided to look at data for the economy of the Malaysian states. The data table was taken from Wikipedia on the economy for each state in Malaysia.
 
