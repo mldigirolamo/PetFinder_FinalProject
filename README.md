@@ -15,19 +15,29 @@ Techniques Used:
 
 ## Visulation
 
+![visulation](https://github.com/mldigirolamo/PetFinder_FinalProject/blob/master/Screen%20Shot%202019-09-06%20at%2010.37.35%20AM.png)
+
 This simple bar chart shows the population of pets by the state of Malaysia. It helps us see the spread of pets over the country. By seeing that there are a decent amount of pets in each state, we know that it could be worth looking at the states of Malaysia in more detail.
 
 ## Data Scaping
+
+![datascaping](https://github.com/mldigirolamo/PetFinder_FinalProject/blob/master/Screen%20Shot%202019-09-06%20at%2010.38.15%20AM.png)
 
 After looking at the previous graph, I decided to look at data for the economy of the Malaysian states. The data table was taken from Wikipedia on the economy for each state in Malaysia.
 
 ## Data Wrangling 
 
+![datawrangling](https://github.com/mldigirolamo/PetFinder_FinalProject/blob/master/Screen%20Shot%202019-09-06%20at%2010.39.03%20AM.png)
+
 I joined the two data tables together to make it easier to analyze the data together.
 
 ## Machine Learning 
 
-Here I made a simple logistic model looking at how GDP and quantity of pets in each state could be correlated to the fee for pets. This could help us evaluate if the shelters should explore changes in fees.
+![machinelearning1](https://github.com/mldigirolamo/PetFinder_FinalProject/blob/master/Screen%20Shot%202019-09-06%20at%2010.41.58%20AM.png)
+
+Here I used a simple logistic model to look at how GDP and quantity of pets in each state could be correlated to the fee for pets. This could help us evaluate if the shelters should explore changes in fees.
+
+![machinelearning2](https://github.com/mldigirolamo/PetFinder_FinalProject/blob/master/Screen%20Shot%202019-09-06%20at%2010.42.19%20AM.png)
 
 I made a graph to help visualize the model’s prediction.
 
@@ -36,6 +46,8 @@ With an R-squared value close to zero, we can see that there is little correlati
 ## Regular Expressions 
 
 For my final task, I used the sentiments data set to analyize the names of pets.  The sentiments data is a list of words and a numerical value that gives their sentiments. Sentiments is a continuous variable with positive and negative numbers that show the degree of positive or negative sentiment based on a survey.
+
+![regexp](https://github.com/mldigirolamo/PetFinder_FinalProject/blob/master/Screen%20Shot%202019-09-06%20at%2010.42.44%20AM.png)
 
 11 animals have names with negative scores. Shelters may want to consider changing these names to help get these animals adopted.
 
