@@ -1,4 +1,4 @@
-# PetFinder_FinalProject
+# Pet Finder Project 
 
 PetFinder was a group project for a data science class I took last semester.  I decided to extract the parts of the project I wrote to have an example of my skills using R. 
 
@@ -13,7 +13,7 @@ Techniques Used:
 * Machine Learning 
 * Regular Expressions 
 
-[Data Scaping](# Data Scaping)
+[Data Scaping](Data Scaping)
 
 Data Scaping
 
