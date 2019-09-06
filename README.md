@@ -15,7 +15,7 @@ Techniques Used:
 
 ## Visulation
 
-![visulation](https://github.com/mldigirolamo/PetFinder_FinalProject/blob/gh-pages/Screen%20Shot%202019-09-06%20at%2010.37.35%20AM.png)
+![visulation](Screen Shot 2019-09-06 at 10.37.35 AM.png)
 
 This simple bar chart shows the population of pets by the state of Malaysia. It helps us see the spread of pets over the country. By seeing that there are a decent amount of pets in each state, we know that it could be worth looking at the states of Malaysia in more detail.
 
