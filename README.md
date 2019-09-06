@@ -1,4 +1,4 @@
-# Pet Finder Project :dog: :malaysia:
+# Pet Finder Project 
 
 PetFinder was a group project for a data science class.  I decided to extract the parts of the project I wrote to have an example of my skills using R. 
 
