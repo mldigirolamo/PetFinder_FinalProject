@@ -33,7 +33,7 @@ I joined the two data tables together to make it easier to analyze the data toge
 
 ## Machine Learning 
 
-![machinelearning1](https://github.com/mldigirolamo/PetFinder_FinalProject/blob/master/Screen%20Shot%202019-09-06%20at%2010.41.58%20AM.png)
+![machinelearning1](Screen Shot 2019-09-06 at 10.41.58 AM.png)
 
 Here I used a simple logistic model to look at how GDP and quantity of pets in each state could be correlated to the fee for pets. This could help us evaluate if the shelters should explore changes in fees.
 
