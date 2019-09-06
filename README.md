@@ -27,7 +27,7 @@ After looking at the previous graph, I decided to look at data for the economy o
 
 ## Data Wrangling 
 
-![datawrangling](https://github.com/mldigirolamo/PetFinder_FinalProject/blob/master/Screen%20Shot%202019-09-06%20at%2010.39.03%20AM.png)
+![datawrangling](Screen Shot 2019-09-06 at 10.39.03 AM.png)
 
 I joined the two data tables together to make it easier to analyze the data together.
 
