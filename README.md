@@ -46,8 +46,8 @@ With an R-squared value close to zero, we can see that there is little correlati
 ## Regular Expressions 
 
 For my final task, I used the sentiments data set to analyize the names of pets.  The sentiments data is a list of words and a numerical value that gives their sentiments. Sentiments is a continuous variable with positive and negative numbers that show the degree of positive or negative sentiment based on a survey.
-
-![regexp](https://github.com/mldigirolamo/PetFinder_FinalProject/blob/master/Screen%20Shot%202019-09-06%20at%2010.42.44%20AM.png)
+20AM.png
+![regexp](Screen Shot 2019-09-06 at 10.42.44 AM.png)
 
 11 animals have names with negative scores. Shelters may want to consider changing these names to help get these animals adopted.
 
