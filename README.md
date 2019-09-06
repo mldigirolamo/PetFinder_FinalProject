@@ -1,6 +1,6 @@
 # Pet Finder Project 
 
-PetFinder was a group project for a data science class I took last semester.  I decided to extract the parts of the project I wrote to have an example of my skills using R. 
+PetFinder was a group project for a data science class.  I decided to extract the parts of the project I wrote to have an example of my skills using R. 
 
 We were inspired my the Kaggle competition that wanted people to predict the adpotion outcomes of pet. Instead of following the competiton, we decided to look at the data and see if there was any recommendations for changes we would make to animal shelters to help increase adptions.  
 
