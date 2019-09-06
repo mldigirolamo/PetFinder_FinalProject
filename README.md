@@ -13,6 +13,10 @@ Techniques Used:
 * Machine Learning 
 * Regular Expressions 
 
+[Data Scaping](# Data Scaping)
+
+Data Scaping
+
 
 Kaggle competition: https://www.kaggle.com/c/petfinder-adoption-prediction
 
