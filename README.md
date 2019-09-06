@@ -37,7 +37,7 @@ I joined the two data tables together to make it easier to analyze the data toge
 
 Here I used a simple logistic model to look at how GDP and quantity of pets in each state could be correlated to the fee for pets. This could help us evaluate if the shelters should explore changes in fees.
 
-![machinelearning2](https://github.com/mldigirolamo/PetFinder_FinalProject/blob/master/Screen%20Shot%202019-09-06%20at%2010.42.19%20AM.png)
+![machinelearning2](Screen Shot 2019-09-06 at 10.42.19 AM.png)
 
 I made a graph to help visualize the model’s prediction.
 
