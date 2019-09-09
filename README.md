@@ -2,9 +2,9 @@
 
 PetFinder was a group project for a data science class.  I decided to extract the parts of the project I wrote to have an example of my skills using R. 
 
-We were inspired my the Kaggle competition that wanted people to predict the adpotion outcomes of pet. Instead of following the competiton, we decided to look at the data and see if there was any recommendations for changes we would make to animal shelters to help increase adptions.  
+We were inspired by the Kaggle competition that wanted people to predict the adpotion outcomes of pet. Instead of following the competiton, we decided to look at the data and see if there was any recommendations for changes we would make to animal shelters to help increase adptions.  
 
-First, I took data from wikipeadia on the Malaysian economy to help evaluate animal fees using a logistic model. My other task was to analyse pet names, and see if any animals could benefit from having thier name changed. 
+First, I took data from wikipeadia on the Malaysian economy to help evaluate animal fees using a logistic model. My other task was to analyze pet names, and see if any animals could benefit from having thier name changed. 
 
 Techniques Used:
 * [Visulation](#visulation)
